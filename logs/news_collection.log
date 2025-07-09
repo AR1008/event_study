@@ -1,0 +1,120 @@
+2025-07-09 20:05:12,933 - INFO - 🎯 Starting news data collection...
+🎯 Starting news data collection...
+❌ Error scraping FDA for Sun Pharma: 404 Client Error: Not Found for url: https://www.fda.gov/apology_objects/abuse-detection-apology.html
+❌ Error scraping Sun Pharma website: 404 Client Error: Not Found for url: https://sunpharma.com/media/press-releases
+❌ Error fetching NewsAPI for Sun Pharma: 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=Sun%20Pharma+FDA&from=2015-01-01&to=2025-07-09&apiKey=your_newsapi_key
+⚠️ No news articles found for Sun Pharma
+❌ Error scraping FDA for Biocon: 404 Client Error: Not Found for url: https://www.fda.gov/apology_objects/abuse-detection-apology.html
+✅ Fetched 0 company news articles for Biocon
+❌ Error fetching NewsAPI for Biocon: 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=Biocon+FDA&from=2015-01-01&to=2025-07-09&apiKey=your_newsapi_key
+⚠️ No news articles found for Biocon
+❌ Error scraping FDA for Dr. Reddy’s: 404 Client Error: Not Found for url: https://www.fda.gov/apology_objects/abuse-detection-apology.html
+✅ Fetched 0 company news articles for Dr. Reddy’s
+❌ Error fetching NewsAPI for Dr. Reddy’s: 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=Dr.%20Reddy%E2%80%99s+FDA&from=2015-01-01&to=2025-07-09&apiKey=your_newsapi_key
+⚠️ No news articles found for Dr. Reddy’s
+❌ No relevant news data collected for any company
+🎯 Starting FDA news data collection...
+Fetching FDA News news for Sun Pharma from 2015-01-01 to 2025-07-09
+Collected 667 FDA News articles for Sun Pharma
+Fetching Yahoo Finance news for Sun Pharma
+Collected 0 Yahoo Finance articles for Sun Pharma
+Fetching from RSS feed: https://economictimes.indiatimes.com/markets/stocks/rssfeeds/2146842.cms for Sun Pharma
+Fetching from RSS feed: https://www.business-standard.com/rss/markets-106.rss for Sun Pharma
+Fetching from RSS feed: https://www.livemint.com/rss/companies for Sun Pharma
+Fetching from RSS feed: https://www.moneycontrol.com/rss/business.xml for Sun Pharma
+Fetching from RSS feed: https://feeds.feedburner.com/ndtvprofit-latest for Sun Pharma
+Collected 0 financial RSS articles for Sun Pharma
+Fetching FDA News news for Biocon from 2015-01-01 to 2025-07-09
+Collected 685 FDA News articles for Biocon
+Fetching Yahoo Finance news for Biocon
+Collected 0 Yahoo Finance articles for Biocon
+Fetching from RSS feed: https://economictimes.indiatimes.com/markets/stocks/rssfeeds/2146842.cms for Biocon
+Fetching from RSS feed: https://www.business-standard.com/rss/markets-106.rss for Biocon
+Fetching from RSS feed: https://www.livemint.com/rss/companies for Biocon
+Fetching from RSS feed: https://www.moneycontrol.com/rss/business.xml for Biocon
+Fetching from RSS feed: https://feeds.feedburner.com/ndtvprofit-latest for Biocon
+Collected 0 financial RSS articles for Biocon
+Fetching FDA News news for Dr. Reddy’s from 2015-01-01 to 2025-07-09
+Collected 567 FDA News articles for Dr. Reddy’s
+Fetching Yahoo Finance news for Dr. Reddy’s
+Collected 0 Yahoo Finance articles for Dr. Reddy’s
+Fetching from RSS feed: https://economictimes.indiatimes.com/markets/stocks/rssfeeds/2146842.cms for Dr. Reddy’s
+Fetching from RSS feed: https://www.business-standard.com/rss/markets-106.rss for Dr. Reddy’s
+Fetching from RSS feed: https://www.livemint.com/rss/companies for Dr. Reddy’s
+Fetching from RSS feed: https://www.moneycontrol.com/rss/business.xml for Dr. Reddy’s
+Fetching from RSS feed: https://feeds.feedburner.com/ndtvprofit-latest for Dr. Reddy’s
+Collected 0 financial RSS articles for Dr. Reddy’s
+Total articles collected: 1919
+🎯 Starting enhanced FDA news data collection...
+✅ Loaded stock data: 7788 records
+📊 Collecting news for Sun Pharma...
+🔍 Generated 37 search queries for Sun Pharma
+Fetching enhanced Yahoo Finance news for Sun Pharma
+Collected 0 enhanced Yahoo Finance articles for Sun Pharma
+Fetching from pharma RSS feed: https://www.fiercepharma.com/rss.xml
+Fetching from pharma RSS feed: https://www.biopharmadive.com/feeds/news/
+Fetching from pharma RSS feed: https://www.pharmatimes.com/rss/news.xml
+Fetching from pharma RSS feed: https://www.pharmaceutical-technology.com/rss/news/
+Fetching from pharma RSS feed: https://www.outsourcing-pharma.com/rss/news
+Collected 0 alternative source articles for Sun Pharma
+📰 Collected 436 articles for Sun Pharma
+📊 Collecting news for Biocon...
+🔍 Generated 38 search queries for Biocon
+Fetching enhanced Yahoo Finance news for Biocon
+Collected 0 enhanced Yahoo Finance articles for Biocon
+Fetching from pharma RSS feed: https://www.fiercepharma.com/rss.xml
+Fetching from pharma RSS feed: https://www.biopharmadive.com/feeds/news/
+Fetching from pharma RSS feed: https://www.pharmatimes.com/rss/news.xml
+Fetching from pharma RSS feed: https://www.pharmaceutical-technology.com/rss/news/
+Fetching from pharma RSS feed: https://www.outsourcing-pharma.com/rss/news
+Collected 0 alternative source articles for Biocon
+📰 Collected 480 articles for Biocon
+📊 Collecting news for Dr. Reddy's...
+🔍 Generated 48 search queries for Dr. Reddy's
+Fetching enhanced Yahoo Finance news for Dr. Reddy's
+Collected 0 enhanced Yahoo Finance articles for Dr. Reddy's
+Fetching from pharma RSS feed: https://www.fiercepharma.com/rss.xml
+Fetching from pharma RSS feed: https://www.biopharmadive.com/feeds/news/
+Fetching from pharma RSS feed: https://www.pharmatimes.com/rss/news.xml
+Fetching from pharma RSS feed: https://www.pharmaceutical-technology.com/rss/news/
+Fetching from pharma RSS feed: https://www.outsourcing-pharma.com/rss/news
+Collected 0 alternative source articles for Dr. Reddy's
+📰 Collected 125 articles for Dr. Reddy's
+📊 Total unique articles collected: 603
+🎯 Starting enhanced FDA news data collection...
+✅ Loaded stock data: 7788 records
+📊 Collecting news for Sun Pharma...
+🔍 Generated 37 search queries for Sun Pharma
+Fetching enhanced Yahoo Finance news for Sun Pharma
+Collected 0 enhanced Yahoo Finance articles for Sun Pharma
+Fetching from pharma RSS feed: https://www.fiercepharma.com/rss.xml
+Fetching from pharma RSS feed: https://www.biopharmadive.com/feeds/news/
+Fetching from pharma RSS feed: https://www.pharmatimes.com/rss/news.xml
+Fetching from pharma RSS feed: https://www.pharmaceutical-technology.com/rss/news/
+Fetching from pharma RSS feed: https://www.outsourcing-pharma.com/rss/news
+Collected 0 alternative source articles for Sun Pharma
+📰 Collected 444 articles for Sun Pharma
+📊 Collecting news for Biocon...
+🔍 Generated 38 search queries for Biocon
+Fetching enhanced Yahoo Finance news for Biocon
+Collected 0 enhanced Yahoo Finance articles for Biocon
+Fetching from pharma RSS feed: https://www.fiercepharma.com/rss.xml
+Fetching from pharma RSS feed: https://www.biopharmadive.com/feeds/news/
+Fetching from pharma RSS feed: https://www.pharmatimes.com/rss/news.xml
+Fetching from pharma RSS feed: https://www.pharmaceutical-technology.com/rss/news/
+Fetching from pharma RSS feed: https://www.outsourcing-pharma.com/rss/news
+Collected 0 alternative source articles for Biocon
+📰 Collected 485 articles for Biocon
+📊 Collecting news for Dr. Reddy's...
+🔍 Generated 48 search queries for Dr. Reddy's
+Fetching enhanced Yahoo Finance news for Dr. Reddy's
+Collected 0 enhanced Yahoo Finance articles for Dr. Reddy's
+Fetching from pharma RSS feed: https://www.fiercepharma.com/rss.xml
+Fetching from pharma RSS feed: https://www.biopharmadive.com/feeds/news/
+Fetching from pharma RSS feed: https://www.pharmatimes.com/rss/news.xml
+Fetching from pharma RSS feed: https://www.pharmaceutical-technology.com/rss/news/
+Fetching from pharma RSS feed: https://www.outsourcing-pharma.com/rss/news
+Collected 0 alternative source articles for Dr. Reddy's
+📰 Collected 123 articles for Dr. Reddy's
+📊 Total unique articles collected: 610
+✅ Enhanced news data saved: data/news_data.csv (213 events)
