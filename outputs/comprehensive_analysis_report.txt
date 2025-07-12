@@ -1,0 +1,72 @@
+================================================================================
+BIOCON FDA EVENT STUDY - COMPREHENSIVE ANALYSIS REPORT
+================================================================================
+Generated on: 2025-07-12 06:24:01
+Analysis Period: 2015-01-01 to 2025-07-09
+Fuzzy Matching Threshold: 80%
+Event Window: ±5 days
+
+📊 DATA OVERVIEW
+--------------------------------------------------
+Total processed events: 52
+Sun Pharma: 17 events (12 good, 5 bad)
+Biocon: 15 events (10 good, 5 bad)
+Dr. Reddy's: 20 events (10 good, 10 bad)
+
+📊 STATISTICAL ANALYSIS RESULTS
+--------------------------------------------------
+Overall Results:
+  Pre Event:
+    Events: 52
+    Mean Return: -0.0000 (-0.00%)
+    t-statistic: -0.0063
+    p-value: 0.9950
+    Significant: No
+
+  Event Day:
+    Events: 52
+    Mean Return: 0.0023 (0.23%)
+    t-statistic: 1.1258
+    p-value: 0.2655
+    Significant: No
+
+  Post Event:
+    Events: 52
+    Mean Return: -0.0007 (-0.07%)
+    t-statistic: -0.2070
+    p-value: 0.8368
+    Significant: No
+
+Good vs Bad News Comparison:
+  Pre Event:
+    Good news return: 0.0079 (0.79%)
+    Bad news return: -0.0128 (-1.28%)
+    Difference: 0.0207
+    t-statistic: 2.8306
+    p-value: 0.0067
+    Significant: Yes
+
+  Event Day:
+    Good news return: 0.0020 (0.20%)
+    Bad news return: 0.0028 (0.28%)
+    Difference: -0.0009
+    t-statistic: -0.2079
+    p-value: 0.8361
+    Significant: No
+
+  Post Event:
+    Good news return: -0.0009 (-0.09%)
+    Bad news return: -0.0003 (-0.03%)
+    Difference: -0.0006
+    t-statistic: -0.0828
+    p-value: 0.9344
+    Significant: No
+
+🔍 KEY FINDINGS
+--------------------------------------------------
+Significant findings:
+  • pre_event_bad: Return = -0.0128 (p = 0.0153)
+  • pre_event_good_vs_bad: Return = 0.0207 (p = 0.0067)
+• Event day average impact: 0.23%
+
+================================================================================

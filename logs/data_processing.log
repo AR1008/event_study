@@ -1,405 +1,72 @@
-🎯 Starting data processing...
-🎯 Starting data processing...
-Excluding follow-up event for Sun Pharma on 2022-01-16: Sun Pharma, Lupin recall products in US market - M...
-Excluding follow-up event for Sun Pharma on 2022-05-22: Sun Pharma recalls over 10,000 bottles of generic ...
-🎯 Starting data processing...
-⚠️ No stock data for Sun Pharma (BSE)
-⚠️ No stock data for Biocon (BSE)
-⚠️ No stock data for Dr. Reddy’s (BSE)
-Excluding follow-up event for Sun Pharma on 2022-01-16: Sun Pharma, Lupin recall products in US market - M...
-Excluding follow-up event for Sun Pharma on 2022-05-22: Sun Pharma recalls over 10,000 bottles of generic ...
-No stock data for Sun Pharma (BSE) in window 2015-08-25 to 2015-09-04
-⚠️ Skipping event for Sun Pharma on 2015-08-30 (BSE) due to incomplete data
-Incomplete window for Sun Pharma on 2015-09-24 (NSE): 10 days
-⚠️ Skipping event for Sun Pharma on 2015-09-24 (NSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2015-09-19 to 2015-09-29
-⚠️ Skipping event for Sun Pharma on 2015-09-24 (BSE) due to incomplete data
-Incomplete window for Sun Pharma on 2016-03-10 (NSE): 9 days
-⚠️ Skipping event for Sun Pharma on 2016-03-10 (NSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2016-03-05 to 2016-03-15
-⚠️ Skipping event for Sun Pharma on 2016-03-10 (BSE) due to incomplete data
-Incomplete window for Sun Pharma on 2016-07-28 (NSE): 10 days
-⚠️ Skipping event for Sun Pharma on 2016-07-28 (NSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2016-07-23 to 2016-08-02
-⚠️ Skipping event for Sun Pharma on 2016-07-28 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2017-01-31 to 2017-02-10
-⚠️ Skipping event for Sun Pharma on 2017-02-05 (BSE) due to incomplete data
-Incomplete window for Sun Pharma on 2017-03-14 (NSE): 10 days
-⚠️ Skipping event for Sun Pharma on 2017-03-14 (NSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2017-03-09 to 2017-03-19
-⚠️ Skipping event for Sun Pharma on 2017-03-14 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2017-10-06 to 2017-10-16
-⚠️ Skipping event for Sun Pharma on 2017-10-11 (BSE) due to incomplete data
-Incomplete window for Sun Pharma on 2017-10-17 (NSE): 10 days
-⚠️ Skipping event for Sun Pharma on 2017-10-17 (NSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2017-10-12 to 2017-10-22
-⚠️ Skipping event for Sun Pharma on 2017-10-17 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2018-02-16 to 2018-02-26
-⚠️ Skipping event for Sun Pharma on 2018-02-21 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2018-03-16 to 2018-03-26
-⚠️ Skipping event for Sun Pharma on 2018-03-21 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2018-07-25 to 2018-08-04
-⚠️ Skipping event for Sun Pharma on 2018-07-30 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2018-07-31 to 2018-08-10
-⚠️ Skipping event for Sun Pharma on 2018-08-05 (BSE) due to incomplete data
-Incomplete window for Sun Pharma on 2018-08-16 (NSE): 10 days
-⚠️ Skipping event for Sun Pharma on 2018-08-16 (NSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2018-08-11 to 2018-08-21
-⚠️ Skipping event for Sun Pharma on 2018-08-16 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2018-09-09 to 2018-09-19
-⚠️ Skipping event for Sun Pharma on 2018-09-14 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2018-11-28 to 2018-12-08
-⚠️ Skipping event for Sun Pharma on 2018-12-03 (BSE) due to incomplete data
-Incomplete window for Sun Pharma on 2019-01-22 (NSE): 10 days
-⚠️ Skipping event for Sun Pharma on 2019-01-22 (NSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2019-01-17 to 2019-01-27
-⚠️ Skipping event for Sun Pharma on 2019-01-22 (BSE) due to incomplete data
-Incomplete window for Sun Pharma on 2019-06-04 (NSE): 10 days
-⚠️ Skipping event for Sun Pharma on 2019-06-04 (NSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2019-05-30 to 2019-06-09
-⚠️ Skipping event for Sun Pharma on 2019-06-04 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2020-01-17 to 2020-01-27
-⚠️ Skipping event for Sun Pharma on 2020-01-22 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2020-08-05 to 2020-08-15
-⚠️ Skipping event for Sun Pharma on 2020-08-10 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2020-09-18 to 2020-09-28
-⚠️ Skipping event for Sun Pharma on 2020-09-23 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2020-10-06 to 2020-10-16
-⚠️ Skipping event for Sun Pharma on 2020-10-11 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2021-02-02 to 2021-02-12
-⚠️ Skipping event for Sun Pharma on 2021-02-07 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2021-03-09 to 2021-03-19
-⚠️ Skipping event for Sun Pharma on 2021-03-14 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2021-04-20 to 2021-04-30
-⚠️ Skipping event for Sun Pharma on 2021-04-25 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2021-11-02 to 2021-11-12
-⚠️ Skipping event for Sun Pharma on 2021-11-07 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2021-11-16 to 2021-11-26
-⚠️ Skipping event for Sun Pharma on 2021-11-21 (BSE) due to incomplete data
-Incomplete window for Sun Pharma on 2021-12-16 (NSE): 10 days
-⚠️ Skipping event for Sun Pharma on 2021-12-16 (NSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2021-12-11 to 2021-12-21
-⚠️ Skipping event for Sun Pharma on 2021-12-16 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2022-02-22 to 2022-03-04
-⚠️ Skipping event for Sun Pharma on 2022-02-27 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2022-04-19 to 2022-04-29
-⚠️ Skipping event for Sun Pharma on 2022-04-24 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2022-05-08 to 2022-05-18
-⚠️ Skipping event for Sun Pharma on 2022-05-13 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2022-07-19 to 2022-07-29
-⚠️ Skipping event for Sun Pharma on 2022-07-24 (BSE) due to incomplete data
-Incomplete window for Sun Pharma on 2022-08-14 (NSE): 10 days
-⚠️ Skipping event for Sun Pharma on 2022-08-14 (NSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2022-08-09 to 2022-08-19
-⚠️ Skipping event for Sun Pharma on 2022-08-14 (BSE) due to incomplete data
-Incomplete window for Sun Pharma on 2022-12-08 (NSE): 10 days
-⚠️ Skipping event for Sun Pharma on 2022-12-08 (NSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2022-12-03 to 2022-12-13
-⚠️ Skipping event for Sun Pharma on 2022-12-08 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2022-12-12 to 2022-12-22
-⚠️ Skipping event for Sun Pharma on 2022-12-17 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2023-02-06 to 2023-02-16
-⚠️ Skipping event for Sun Pharma on 2023-02-11 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2023-04-19 to 2023-04-29
-⚠️ Skipping event for Sun Pharma on 2023-04-24 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2023-05-03 to 2023-05-13
-⚠️ Skipping event for Sun Pharma on 2023-05-08 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2023-07-25 to 2023-08-04
-⚠️ Skipping event for Sun Pharma on 2023-07-30 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2023-08-16 to 2023-08-26
-⚠️ Skipping event for Sun Pharma on 2023-08-21 (BSE) due to incomplete data
-Incomplete window for Sun Pharma on 2023-10-06 (NSE): 10 days
-⚠️ Skipping event for Sun Pharma on 2023-10-06 (NSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2023-10-01 to 2023-10-11
-⚠️ Skipping event for Sun Pharma on 2023-10-06 (BSE) due to incomplete data
-Incomplete window for Sun Pharma on 2023-10-19 (NSE): 10 days
-⚠️ Skipping event for Sun Pharma on 2023-10-19 (NSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2023-10-14 to 2023-10-24
-⚠️ Skipping event for Sun Pharma on 2023-10-19 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2023-11-29 to 2023-12-09
-⚠️ Skipping event for Sun Pharma on 2023-12-04 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2023-12-12 to 2023-12-22
-⚠️ Skipping event for Sun Pharma on 2023-12-17 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2024-02-20 to 2024-03-01
-⚠️ Skipping event for Sun Pharma on 2024-02-25 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2024-03-04 to 2024-03-14
-⚠️ Skipping event for Sun Pharma on 2024-03-09 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2024-05-14 to 2024-05-24
-⚠️ Skipping event for Sun Pharma on 2024-05-19 (BSE) due to incomplete data
-Incomplete window for Sun Pharma on 2024-05-30 (NSE): 10 days
-⚠️ Skipping event for Sun Pharma on 2024-05-30 (NSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2024-05-25 to 2024-06-04
-⚠️ Skipping event for Sun Pharma on 2024-05-30 (BSE) due to incomplete data
-Incomplete window for Sun Pharma on 2024-06-20 (NSE): 9 days
-⚠️ Skipping event for Sun Pharma on 2024-06-20 (NSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2024-06-15 to 2024-06-25
-⚠️ Skipping event for Sun Pharma on 2024-06-20 (BSE) due to incomplete data
-Incomplete window for Sun Pharma on 2024-07-04 (NSE): 10 days
-⚠️ Skipping event for Sun Pharma on 2024-07-04 (NSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2024-06-29 to 2024-07-09
-⚠️ Skipping event for Sun Pharma on 2024-07-04 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2024-07-21 to 2024-07-31
-⚠️ Skipping event for Sun Pharma on 2024-07-26 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2024-09-03 to 2024-09-13
-⚠️ Skipping event for Sun Pharma on 2024-09-08 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2025-02-12 to 2025-02-22
-⚠️ Skipping event for Sun Pharma on 2025-02-17 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2025-03-12 to 2025-03-22
-⚠️ Skipping event for Sun Pharma on 2025-03-17 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2025-04-08 to 2025-04-18
-⚠️ Skipping event for Sun Pharma on 2025-04-13 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2025-04-23 to 2025-05-03
-⚠️ Skipping event for Sun Pharma on 2025-04-28 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2025-05-13 to 2025-05-23
-⚠️ Skipping event for Sun Pharma on 2025-05-18 (BSE) due to incomplete data
-Incomplete window for Sun Pharma on 2025-06-03 (NSE): 10 days
-⚠️ Skipping event for Sun Pharma on 2025-06-03 (NSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2025-05-29 to 2025-06-08
-⚠️ Skipping event for Sun Pharma on 2025-06-03 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2025-06-09 to 2025-06-19
-⚠️ Skipping event for Sun Pharma on 2025-06-14 (BSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2017-05-05 to 2017-05-15
-⚠️ Skipping event for Biocon on 2017-05-10 (BSE) due to incomplete data
-Incomplete window for Biocon on 2017-08-08 (NSE): 10 days
-⚠️ Skipping event for Biocon on 2017-08-08 (NSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2017-08-03 to 2017-08-13
-⚠️ Skipping event for Biocon on 2017-08-08 (BSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2017-09-13 to 2017-09-23
-⚠️ Skipping event for Biocon on 2017-09-18 (BSE) due to incomplete data
-Incomplete window for Biocon on 2018-06-05 (NSE): 10 days
-⚠️ Skipping event for Biocon on 2018-06-05 (NSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2018-05-31 to 2018-06-10
-⚠️ Skipping event for Biocon on 2018-06-05 (BSE) due to incomplete data
-Incomplete window for Biocon on 2019-12-03 (NSE): 10 days
-⚠️ Skipping event for Biocon on 2019-12-03 (NSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2019-11-28 to 2019-12-08
-⚠️ Skipping event for Biocon on 2019-12-03 (BSE) due to incomplete data
-Incomplete window for Biocon on 2020-01-28 (NSE): 10 days
-⚠️ Skipping event for Biocon on 2020-01-28 (NSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2020-01-23 to 2020-02-02
-⚠️ Skipping event for Biocon on 2020-01-28 (BSE) due to incomplete data
-Incomplete window for Biocon on 2020-06-11 (NSE): 10 days
-⚠️ Skipping event for Biocon on 2020-06-11 (NSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2020-06-06 to 2020-06-16
-⚠️ Skipping event for Biocon on 2020-06-11 (BSE) due to incomplete data
-Incomplete window for Biocon on 2021-07-29 (NSE): 10 days
-⚠️ Skipping event for Biocon on 2021-07-29 (NSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2021-07-24 to 2021-08-03
-⚠️ Skipping event for Biocon on 2021-07-29 (BSE) due to incomplete data
-Incomplete window for Biocon on 2021-08-19 (NSE): 10 days
-⚠️ Skipping event for Biocon on 2021-08-19 (NSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2021-08-14 to 2021-08-24
-⚠️ Skipping event for Biocon on 2021-08-19 (BSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2023-02-08 to 2023-02-18
-⚠️ Skipping event for Biocon on 2023-02-13 (BSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2023-02-13 to 2023-02-23
-⚠️ Skipping event for Biocon on 2023-02-18 (BSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2023-10-13 to 2023-10-23
-⚠️ Skipping event for Biocon on 2023-10-18 (BSE) due to incomplete data
-Incomplete window for Biocon on 2024-02-29 (NSE): 10 days
-⚠️ Skipping event for Biocon on 2024-02-29 (NSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2024-02-24 to 2024-03-05
-⚠️ Skipping event for Biocon on 2024-02-29 (BSE) due to incomplete data
-Incomplete window for Biocon on 2024-05-21 (NSE): 10 days
-⚠️ Skipping event for Biocon on 2024-05-21 (NSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2024-05-16 to 2024-05-26
-⚠️ Skipping event for Biocon on 2024-05-21 (BSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2024-06-10 to 2024-06-20
-⚠️ Skipping event for Biocon on 2024-06-15 (BSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2024-08-25 to 2024-09-04
-⚠️ Skipping event for Biocon on 2024-08-30 (BSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2024-11-27 to 2024-12-07
-⚠️ Skipping event for Biocon on 2024-12-02 (BSE) due to incomplete data
-Incomplete window for Biocon on 2025-01-07 (NSE): 10 days
-⚠️ Skipping event for Biocon on 2025-01-07 (NSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2025-01-02 to 2025-01-12
-⚠️ Skipping event for Biocon on 2025-01-07 (BSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2025-01-08 to 2025-01-18
-⚠️ Skipping event for Biocon on 2025-01-13 (BSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2025-03-19 to 2025-03-29
-⚠️ Skipping event for Biocon on 2025-03-24 (BSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2025-04-06 to 2025-04-16
-⚠️ Skipping event for Biocon on 2025-04-11 (BSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2025-04-23 to 2025-05-03
-⚠️ Skipping event for Biocon on 2025-04-28 (BSE) due to incomplete data
-Incomplete window for Biocon on 2025-07-03 (NSE): 10 days
-⚠️ Skipping event for Biocon on 2025-07-03 (NSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2025-06-28 to 2025-07-08
-⚠️ Skipping event for Biocon on 2025-07-03 (BSE) due to incomplete data
-✅ Good news saved: data/good_news.csv (15 rows)
-✅ Bad news saved: data/bad_news.csv (38 rows)
-✅ Metadata saved: data/metadata.csv (81 rows)
-🎯 Starting data processing...
-⚠️ Incomplete date range for Sun Pharma (NSE): 2015-01-01 to 2025-07-08
-⚠️ No stock data for Sun Pharma (BSE). Run stock_data.py to fetch missing data.
-⚠️ Incomplete date range for Biocon (NSE): 2015-01-01 to 2025-07-08
-⚠️ No stock data for Biocon (BSE). Run stock_data.py to fetch missing data.
-⚠️ Incomplete date range for Dr. Reddy’s (NSE): 2015-01-01 to 2025-07-08
-⚠️ No stock data for Dr. Reddy’s (BSE). Run stock_data.py to fetch missing data.
-Excluding follow-up event for Sun Pharma on 2022-01-16: Sun Pharma, Lupin recall products in US market - M...
-Excluding follow-up event for Sun Pharma on 2022-05-22: Sun Pharma recalls over 10,000 bottles of generic ...
-No stock data for Sun Pharma (BSE) in window 2015-08-25 to 2015-09-04
-⚠️ Skipping event for Sun Pharma on 2015-08-30 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2015-09-19 to 2015-09-29
-⚠️ Skipping event for Sun Pharma on 2015-09-24 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2016-03-05 to 2016-03-15
-⚠️ Skipping event for Sun Pharma on 2016-03-10 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2016-07-23 to 2016-08-02
-⚠️ Skipping event for Sun Pharma on 2016-07-28 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2017-01-31 to 2017-02-10
-⚠️ Skipping event for Sun Pharma on 2017-02-05 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2017-03-09 to 2017-03-19
-⚠️ Skipping event for Sun Pharma on 2017-03-14 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2017-10-06 to 2017-10-16
-⚠️ Skipping event for Sun Pharma on 2017-10-11 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2017-10-12 to 2017-10-22
-⚠️ Skipping event for Sun Pharma on 2017-10-17 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2018-02-16 to 2018-02-26
-⚠️ Skipping event for Sun Pharma on 2018-02-21 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2018-03-16 to 2018-03-26
-⚠️ Skipping event for Sun Pharma on 2018-03-21 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2018-07-25 to 2018-08-04
-⚠️ Skipping event for Sun Pharma on 2018-07-30 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2018-07-31 to 2018-08-10
-⚠️ Skipping event for Sun Pharma on 2018-08-05 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2018-08-11 to 2018-08-21
-⚠️ Skipping event for Sun Pharma on 2018-08-16 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2018-09-09 to 2018-09-19
-⚠️ Skipping event for Sun Pharma on 2018-09-14 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2018-11-28 to 2018-12-08
-⚠️ Skipping event for Sun Pharma on 2018-12-03 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2019-01-17 to 2019-01-27
-⚠️ Skipping event for Sun Pharma on 2019-01-22 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2019-05-30 to 2019-06-09
-⚠️ Skipping event for Sun Pharma on 2019-06-04 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2020-01-17 to 2020-01-27
-⚠️ Skipping event for Sun Pharma on 2020-01-22 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2020-08-05 to 2020-08-15
-⚠️ Skipping event for Sun Pharma on 2020-08-10 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2020-09-18 to 2020-09-28
-⚠️ Skipping event for Sun Pharma on 2020-09-23 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2020-10-06 to 2020-10-16
-⚠️ Skipping event for Sun Pharma on 2020-10-11 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2021-02-02 to 2021-02-12
-⚠️ Skipping event for Sun Pharma on 2021-02-07 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2021-03-09 to 2021-03-19
-⚠️ Skipping event for Sun Pharma on 2021-03-14 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2021-04-20 to 2021-04-30
-⚠️ Skipping event for Sun Pharma on 2021-04-25 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2021-11-02 to 2021-11-12
-⚠️ Skipping event for Sun Pharma on 2021-11-07 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2021-11-16 to 2021-11-26
-⚠️ Skipping event for Sun Pharma on 2021-11-21 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2021-12-11 to 2021-12-21
-⚠️ Skipping event for Sun Pharma on 2021-12-16 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2022-02-22 to 2022-03-04
-⚠️ Skipping event for Sun Pharma on 2022-02-27 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2022-04-19 to 2022-04-29
-⚠️ Skipping event for Sun Pharma on 2022-04-24 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2022-05-08 to 2022-05-18
-⚠️ Skipping event for Sun Pharma on 2022-05-13 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2022-07-19 to 2022-07-29
-⚠️ Skipping event for Sun Pharma on 2022-07-24 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2022-08-09 to 2022-08-19
-⚠️ Skipping event for Sun Pharma on 2022-08-14 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2022-12-03 to 2022-12-13
-⚠️ Skipping event for Sun Pharma on 2022-12-08 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2022-12-12 to 2022-12-22
-⚠️ Skipping event for Sun Pharma on 2022-12-17 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2023-02-06 to 2023-02-16
-⚠️ Skipping event for Sun Pharma on 2023-02-11 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2023-04-19 to 2023-04-29
-⚠️ Skipping event for Sun Pharma on 2023-04-24 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2023-05-03 to 2023-05-13
-⚠️ Skipping event for Sun Pharma on 2023-05-08 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2023-07-25 to 2023-08-04
-⚠️ Skipping event for Sun Pharma on 2023-07-30 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2023-08-16 to 2023-08-26
-⚠️ Skipping event for Sun Pharma on 2023-08-21 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2023-10-01 to 2023-10-11
-⚠️ Skipping event for Sun Pharma on 2023-10-06 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2023-10-14 to 2023-10-24
-⚠️ Skipping event for Sun Pharma on 2023-10-19 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2023-11-29 to 2023-12-09
-⚠️ Skipping event for Sun Pharma on 2023-12-04 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2023-12-12 to 2023-12-22
-⚠️ Skipping event for Sun Pharma on 2023-12-17 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2024-02-20 to 2024-03-01
-⚠️ Skipping event for Sun Pharma on 2024-02-25 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2024-03-04 to 2024-03-14
-⚠️ Skipping event for Sun Pharma on 2024-03-09 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2024-05-14 to 2024-05-24
-⚠️ Skipping event for Sun Pharma on 2024-05-19 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2024-05-25 to 2024-06-04
-⚠️ Skipping event for Sun Pharma on 2024-05-30 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2024-06-15 to 2024-06-25
-⚠️ Skipping event for Sun Pharma on 2024-06-20 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2024-06-29 to 2024-07-09
-⚠️ Skipping event for Sun Pharma on 2024-07-04 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2024-07-21 to 2024-07-31
-⚠️ Skipping event for Sun Pharma on 2024-07-26 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2024-09-03 to 2024-09-13
-⚠️ Skipping event for Sun Pharma on 2024-09-08 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2025-02-12 to 2025-02-22
-⚠️ Skipping event for Sun Pharma on 2025-02-17 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2025-03-12 to 2025-03-22
-⚠️ Skipping event for Sun Pharma on 2025-03-17 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2025-04-08 to 2025-04-18
-⚠️ Skipping event for Sun Pharma on 2025-04-13 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2025-04-23 to 2025-05-03
-⚠️ Skipping event for Sun Pharma on 2025-04-28 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2025-05-13 to 2025-05-23
-⚠️ Skipping event for Sun Pharma on 2025-05-18 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2025-05-29 to 2025-06-08
-⚠️ Skipping event for Sun Pharma on 2025-06-03 (BSE) due to incomplete data
-No stock data for Sun Pharma (BSE) in window 2025-06-09 to 2025-06-19
-⚠️ Skipping event for Sun Pharma on 2025-06-14 (BSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2017-05-05 to 2017-05-15
-⚠️ Skipping event for Biocon on 2017-05-10 (BSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2017-08-03 to 2017-08-13
-⚠️ Skipping event for Biocon on 2017-08-08 (BSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2017-09-13 to 2017-09-23
-⚠️ Skipping event for Biocon on 2017-09-18 (BSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2018-05-31 to 2018-06-10
-⚠️ Skipping event for Biocon on 2018-06-05 (BSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2019-11-28 to 2019-12-08
-⚠️ Skipping event for Biocon on 2019-12-03 (BSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2020-01-23 to 2020-02-02
-⚠️ Skipping event for Biocon on 2020-01-28 (BSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2020-06-06 to 2020-06-16
-⚠️ Skipping event for Biocon on 2020-06-11 (BSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2021-07-24 to 2021-08-03
-⚠️ Skipping event for Biocon on 2021-07-29 (BSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2021-08-14 to 2021-08-24
-⚠️ Skipping event for Biocon on 2021-08-19 (BSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2023-02-08 to 2023-02-18
-⚠️ Skipping event for Biocon on 2023-02-13 (BSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2023-02-13 to 2023-02-23
-⚠️ Skipping event for Biocon on 2023-02-18 (BSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2023-10-13 to 2023-10-23
-⚠️ Skipping event for Biocon on 2023-10-18 (BSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2024-02-24 to 2024-03-05
-⚠️ Skipping event for Biocon on 2024-02-29 (BSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2024-05-16 to 2024-05-26
-⚠️ Skipping event for Biocon on 2024-05-21 (BSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2024-06-10 to 2024-06-20
-⚠️ Skipping event for Biocon on 2024-06-15 (BSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2024-08-25 to 2024-09-04
-⚠️ Skipping event for Biocon on 2024-08-30 (BSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2024-11-27 to 2024-12-07
-⚠️ Skipping event for Biocon on 2024-12-02 (BSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2025-01-02 to 2025-01-12
-⚠️ Skipping event for Biocon on 2025-01-07 (BSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2025-01-08 to 2025-01-18
-⚠️ Skipping event for Biocon on 2025-01-13 (BSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2025-03-19 to 2025-03-29
-⚠️ Skipping event for Biocon on 2025-03-24 (BSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2025-04-06 to 2025-04-16
-⚠️ Skipping event for Biocon on 2025-04-11 (BSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2025-04-23 to 2025-05-03
-⚠️ Skipping event for Biocon on 2025-04-28 (BSE) due to incomplete data
-No stock data for Biocon (BSE) in window 2025-06-28 to 2025-07-08
-⚠️ Skipping event for Biocon on 2025-07-03 (BSE) due to incomplete data
-✅ Good news saved: data/good_news.csv (28 rows)
-✅ Bad news saved: data/bad_news.csv (53 rows)
-✅ Metadata saved: data/metadata.csv (81 rows)
+2025-07-12 06:23:56,602 - INFO - ✅ All required libraries available
+2025-07-12 06:23:56,602 - INFO - 🚀 BIOCON FDA Event Study Processor initialized
+2025-07-12 06:23:56,602 - INFO - 📅 Analysis period: 2015-01-01 to 2025-07-09
+2025-07-12 06:23:56,602 - INFO - 🏢 Companies: Sun Pharma, Biocon, Dr. Reddy's
+2025-07-12 06:23:56,602 - INFO - 📈 Exchanges: NSE, BSE
+2025-07-12 06:23:56,602 - INFO - 📂 Loading input datasets...
+2025-07-12 06:23:56,607 - INFO - ✅ Loaded news data: 102 records
+2025-07-12 06:23:56,615 - INFO - ✅ Loaded stock data: 7785 records
+2025-07-12 06:23:56,615 - INFO - 🔍 Validating data structure...
+2025-07-12 06:23:56,617 - INFO - ✅ Data structure validation passed
+2025-07-12 06:23:56,617 - INFO - 🔍 Validating data content and coverage...
+2025-07-12 06:23:56,633 - WARNING - ⚠️ News data coverage: 2015-11-25 00:00:00 to 2025-05-19 00:00:00
+2025-07-12 06:23:56,633 - WARNING - Expected: 2015-01-01 00:00:00 to 2025-07-09 00:00:00
+2025-07-12 06:23:56,634 - WARNING - ⚠️ Stock data coverage: 2015-01-02 00:00:00 to 2025-07-08 00:00:00
+2025-07-12 06:23:56,634 - INFO - 📊 News companies: ['Biocon', "Dr. Reddy's", 'Sun Pharma']
+2025-07-12 06:23:56,634 - INFO - 📊 Stock companies: ['Biocon', "Dr. Reddy's", 'Sun Pharma']
+2025-07-12 06:23:56,635 - INFO - 📈 News event distribution:
+2025-07-12 06:23:56,635 - INFO -   Sun Pharma: 29 events
+2025-07-12 06:23:56,635 - INFO -   Biocon: 48 events
+2025-07-12 06:23:56,635 - INFO -   Dr. Reddy's: 25 events
+2025-07-12 06:23:56,635 - INFO - 📊 Classification distribution:
+2025-07-12 06:23:56,635 - INFO -   Good: 78 events
+2025-07-12 06:23:56,635 - INFO -   Bad: 24 events
+2025-07-12 06:23:56,635 - INFO - 📊 Stock data by exchange:
+2025-07-12 06:23:56,635 - INFO -   NSE: 7785 records
+2025-07-12 06:23:56,637 - WARNING - ⚠️ No BSE data for Sun Pharma
+2025-07-12 06:23:56,637 - INFO - 💡 BSE data missing for Sun Pharma - will use NSE only
+2025-07-12 06:23:56,638 - WARNING - ⚠️ No BSE data for Biocon
+2025-07-12 06:23:56,638 - INFO - 💡 BSE data missing for Biocon - will use NSE only
+2025-07-12 06:23:56,640 - WARNING - ⚠️ No BSE data for Dr. Reddy's
+2025-07-12 06:23:56,640 - INFO - 💡 BSE data missing for Dr. Reddy's - will use NSE only
+2025-07-12 06:23:56,640 - INFO - ✅ Data content validation passed
+2025-07-12 06:23:56,640 - INFO - 🔍 Applying fuzzy matching filter...
+2025-07-12 06:23:56,648 - INFO - 📊 Fuzzy matching results:
+2025-07-12 06:23:56,648 - INFO -   Original events: 102
+2025-07-12 06:23:56,648 - INFO -   After filtering: 97
+2025-07-12 06:23:56,648 - INFO -   Removed duplicates: 5
+2025-07-12 06:23:56,648 - INFO -   Sun Pharma: 29 → 27 (2 removed)
+2025-07-12 06:23:56,648 - INFO -   Biocon: 48 → 45 (3 removed)
+2025-07-12 06:23:56,649 - INFO -   Dr. Reddy's: 25 → 25 (0 removed)
+2025-07-12 06:23:56,649 - INFO - 📅 Filtering for non-overlapping event windows...
+2025-07-12 06:23:56,650 - INFO -   Sun Pharma: 27 → 17 events
+2025-07-12 06:23:56,651 - INFO -   Biocon: 45 → 15 events
+2025-07-12 06:23:56,652 - INFO -   Dr. Reddy's: 25 → 20 events
+2025-07-12 06:23:56,652 - INFO - 📊 Non-overlapping filter results:
+2025-07-12 06:23:56,652 - INFO -   Total events: 97 → 52
+2025-07-12 06:23:56,652 - INFO -   Removed overlapping: 45
+2025-07-12 06:23:56,652 - INFO - 📈 Calculating event returns with market model...
+2025-07-12 06:23:56,653 - INFO - 📈 Calculating market model parameters...
+2025-07-12 06:23:57,009 - INFO -   Sun Pharma: α=-0.000290, β=1.1820, R²=0.5988 (n=250)
+2025-07-12 06:23:57,010 - INFO -   Biocon: α=0.000672, β=0.8531, R²=0.4961 (n=250)
+2025-07-12 06:23:57,012 - INFO -   Dr. Reddy's: α=-0.000382, β=0.9648, R²=0.5098 (n=250)
+2025-07-12 06:23:57,012 - INFO - ✅ Market model parameters calculated
+2025-07-12 06:23:58,003 - INFO - ✅ Calculated returns for 52 events
+2025-07-12 06:23:58,003 - INFO -   Sun Pharma: 17 events (12 good, 5 bad)
+2025-07-12 06:23:58,004 - INFO -   Biocon: 15 events (10 good, 5 bad)
+2025-07-12 06:23:58,004 - INFO -   Dr. Reddy's: 20 events (10 good, 10 bad)
+2025-07-12 06:23:58,004 - INFO - 📊 Performing statistical analysis...
+2025-07-12 06:23:58,539 - INFO - ✅ Statistical analysis completed
+2025-07-12 06:23:58,539 - INFO - 📊 Creating visualizations...
+2025-07-12 06:24:01,668 - INFO - ✅ Visualizations created and saved to outputs/charts/
+2025-07-12 06:24:01,668 - INFO - 💾 Saving output files...
+2025-07-12 06:24:01,671 - INFO - ✅ Saved good_news.csv: 32 events
+2025-07-12 06:24:01,672 - INFO - ✅ Saved bad_news.csv: 20 events
+2025-07-12 06:24:01,676 - INFO - ✅ Saved metadata.csv: 52 records
+2025-07-12 06:24:01,677 - INFO - 💾 Saving additional analysis files...
+2025-07-12 06:24:01,679 - INFO - ✅ Detailed results saved: outputs/analysis/detailed_event_results.csv
+2025-07-12 06:24:01,680 - INFO - ✅ Statistical tests saved: outputs/analysis/statistical_test_results.csv
+2025-07-12 06:24:01,682 - INFO - ✅ Summary statistics saved: outputs/analysis/company_summary_statistics.csv
+2025-07-12 06:24:01,682 - INFO - 📋 Generating comprehensive analysis report...
+2025-07-12 06:24:01,684 - INFO - ✅ Comprehensive report saved to: outputs/comprehensive_analysis_report.txt
+2025-07-12 06:24:01,684 - INFO - ✅ Complete processing pipeline executed successfully

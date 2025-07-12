@@ -1,0 +1,113 @@
+================================================================================
+FDA EVENT STUDY - COMPREHENSIVE ANALYSIS REPORT
+================================================================================
+Generated on: 2025-07-12 05:59:40
+
+📊 DATA OVERVIEW
+--------------------------------------------------
+Total news events: 102
+Events with stock data: 102
+Stock data period: 2015-01-02 00:00:00 to 2025-07-08 00:00:00
+
+🏢 COMPANY DISTRIBUTION
+--------------------------------------------------
+Sun Pharma: 29 total (24 good, 5 bad)
+Biocon: 48 total (42 good, 6 bad)
+Dr. Reddy's: 25 total (12 good, 13 bad)
+
+📈 MARKET MODEL PARAMETERS
+--------------------------------------------------
+Sun Pharma:
+  Alpha: 0.000284
+  Beta: 1.0984
+  R-squared: 0.6336
+  Estimation period: 250 days
+
+Biocon:
+  Alpha: 0.000317
+  Beta: 0.9014
+  R-squared: 0.5332
+  Estimation period: 250 days
+
+Dr. Reddy's:
+  Alpha: -0.000483
+  Beta: 0.9828
+  R-squared: 0.5883
+  Estimation period: 250 days
+
+📊 STATISTICAL TEST RESULTS
+--------------------------------------------------
+Overall Results:
+  PRE_EVENT Window:
+    Events: 102
+    Mean CAR: -0.0030 (-0.30%)
+    t-statistic: -1.5987
+    p-value: 0.1130
+    Significant: No
+
+  EVENT_DAY Window:
+    Events: 102
+    Mean CAR: -0.0008 (-0.08%)
+    t-statistic: -0.6047
+    p-value: 0.5467
+    Significant: No
+
+  POST_EVENT Window:
+    Events: 102
+    Mean CAR: 0.0043 (0.43%)
+    t-statistic: 2.7369
+    p-value: 0.0073
+    Significant: Yes
+
+  FULL_WINDOW Window:
+    Events: 102
+    Mean CAR: 0.0005 (0.05%)
+    t-statistic: 0.1772
+    p-value: 0.8597
+    Significant: No
+
+Good vs Bad News Comparison:
+  PRE_EVENT Window:
+    Good news CAR: -0.0038 (-0.38%)
+    Bad news CAR: -0.0005 (-0.05%)
+    Difference: -0.0033
+    t-statistic: -0.7451
+    p-value: 0.4580
+    Significant: No
+
+  EVENT_DAY Window:
+    Good news CAR: -0.0008 (-0.08%)
+    Bad news CAR: -0.0007 (-0.07%)
+    Difference: -0.0001
+    t-statistic: -0.0317
+    p-value: 0.9748
+    Significant: No
+
+  POST_EVENT Window:
+    Good news CAR: 0.0055 (0.55%)
+    Bad news CAR: 0.0005 (0.05%)
+    Difference: 0.0049
+    t-statistic: 1.3442
+    p-value: 0.1819
+    Significant: No
+
+  FULL_WINDOW Window:
+    Good news CAR: 0.0008 (0.08%)
+    Bad news CAR: -0.0007 (-0.07%)
+    Difference: 0.0015
+    t-statistic: 0.2375
+    p-value: 0.8127
+    Significant: No
+
+🔍 KEY FINDINGS
+--------------------------------------------------
+Significant findings:
+  • post_event_overall: CAR = 0.0043 (p = 0.0073)
+  • post_event_good: CAR = 0.0055 (p = 0.0032)
+  • pre_event_Biocon: CAR = -0.0067 (p = 0.0383)
+  • post_event_Biocon: CAR = 0.0089 (p = 0.0003)
+  • pre_event_Dr_Reddys: CAR = 0.0054 (p = 0.0409)
+• Event day average impact: -0.08%
+• Evidence of market efficiency (no pre-event leakage)
+
+================================================================================

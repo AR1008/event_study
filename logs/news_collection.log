@@ -118,3 +118,286 @@ Collected 0 alternative source articles for Dr. Reddy's
 📰 Collected 123 articles for Dr. Reddy's
 📊 Total unique articles collected: 610
 ✅ Enhanced news data saved: data/news_data.csv (213 events)
+🚀 FDA News Collector Initialized
+📅 Date Range: 2015-01-01 00:00:00 to 2025-07-09 00:00:00
+🚀 Starting FDA News Data Collection Pipeline...
+🎯 Starting news data collection...
+📄 Collecting news for Sun Pharma...
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA&from=2015-01-01&to=2015-01-31&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharmaceutical" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharmaceutical%22%20FDA&from=2015-01-01&to=2015-01-31&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" recall': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20recall&from=2015-01-01&to=2015-01-31&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA approval': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20approval&from=2015-01-01&to=2015-01-31&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA warning': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20warning&from=2015-01-01&to=2015-01-31&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA&from=2015-02-01&to=2015-03-03&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharmaceutical" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharmaceutical%22%20FDA&from=2015-02-01&to=2015-03-03&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" recall': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20recall&from=2015-02-01&to=2015-03-03&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA approval': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20approval&from=2015-02-01&to=2015-03-03&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA warning': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20warning&from=2015-02-01&to=2015-03-03&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA&from=2015-03-04&to=2015-04-03&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharmaceutical" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharmaceutical%22%20FDA&from=2015-03-04&to=2015-04-03&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" recall': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20recall&from=2015-03-04&to=2015-04-03&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA approval': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20approval&from=2015-03-04&to=2015-04-03&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA warning': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20warning&from=2015-03-04&to=2015-04-03&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA&from=2015-04-04&to=2015-05-04&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharmaceutical" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharmaceutical%22%20FDA&from=2015-04-04&to=2015-05-04&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" recall': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20recall&from=2015-04-04&to=2015-05-04&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA approval': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20approval&from=2015-04-04&to=2015-05-04&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA warning': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20warning&from=2015-04-04&to=2015-05-04&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA&from=2015-05-05&to=2015-06-04&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharmaceutical" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharmaceutical%22%20FDA&from=2015-05-05&to=2015-06-04&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" recall': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20recall&from=2015-05-05&to=2015-06-04&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA approval': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20approval&from=2015-05-05&to=2015-06-04&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA warning': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20warning&from=2015-05-05&to=2015-06-04&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA&from=2015-06-05&to=2015-07-05&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharmaceutical" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharmaceutical%22%20FDA&from=2015-06-05&to=2015-07-05&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" recall': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20recall&from=2015-06-05&to=2015-07-05&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA approval': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20approval&from=2015-06-05&to=2015-07-05&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA warning': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20warning&from=2015-06-05&to=2015-07-05&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA&from=2015-07-06&to=2015-08-05&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharmaceutical" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharmaceutical%22%20FDA&from=2015-07-06&to=2015-08-05&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" recall': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20recall&from=2015-07-06&to=2015-08-05&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA approval': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20approval&from=2015-07-06&to=2015-08-05&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA warning': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20warning&from=2015-07-06&to=2015-08-05&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA&from=2015-08-06&to=2015-09-05&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharmaceutical" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharmaceutical%22%20FDA&from=2015-08-06&to=2015-09-05&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" recall': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20recall&from=2015-08-06&to=2015-09-05&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA approval': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20approval&from=2015-08-06&to=2015-09-05&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA warning': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20warning&from=2015-08-06&to=2015-09-05&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA&from=2015-09-06&to=2015-10-06&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharmaceutical" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharmaceutical%22%20FDA&from=2015-09-06&to=2015-10-06&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" recall': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20recall&from=2015-09-06&to=2015-10-06&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA approval': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20approval&from=2015-09-06&to=2015-10-06&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA warning': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20warning&from=2015-09-06&to=2015-10-06&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA&from=2015-10-07&to=2015-11-06&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharmaceutical" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharmaceutical%22%20FDA&from=2015-10-07&to=2015-11-06&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" recall': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20recall&from=2015-10-07&to=2015-11-06&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA approval': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20approval&from=2015-10-07&to=2015-11-06&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA warning': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20warning&from=2015-10-07&to=2015-11-06&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA&from=2015-11-07&to=2015-12-07&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharmaceutical" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharmaceutical%22%20FDA&from=2015-11-07&to=2015-12-07&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" recall': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20recall&from=2015-11-07&to=2015-12-07&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA approval': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20approval&from=2015-11-07&to=2015-12-07&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA warning': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20warning&from=2015-11-07&to=2015-12-07&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA&from=2015-12-08&to=2016-01-07&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharmaceutical" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharmaceutical%22%20FDA&from=2015-12-08&to=2016-01-07&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" recall': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20recall&from=2015-12-08&to=2016-01-07&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA approval': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20approval&from=2015-12-08&to=2016-01-07&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA warning': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20warning&from=2015-12-08&to=2016-01-07&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA&from=2016-01-08&to=2016-02-07&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharmaceutical" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharmaceutical%22%20FDA&from=2016-01-08&to=2016-02-07&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" recall': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20recall&from=2016-01-08&to=2016-02-07&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA approval': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20approval&from=2016-01-08&to=2016-02-07&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA warning': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20warning&from=2016-01-08&to=2016-02-07&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA&from=2016-02-08&to=2016-03-09&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharmaceutical" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharmaceutical%22%20FDA&from=2016-02-08&to=2016-03-09&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" recall': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20recall&from=2016-02-08&to=2016-03-09&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA approval': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20approval&from=2016-02-08&to=2016-03-09&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA warning': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20warning&from=2016-02-08&to=2016-03-09&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA&from=2016-03-10&to=2016-04-09&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharmaceutical" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharmaceutical%22%20FDA&from=2016-03-10&to=2016-04-09&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" recall': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20recall&from=2016-03-10&to=2016-04-09&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA approval': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20approval&from=2016-03-10&to=2016-04-09&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA warning': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20warning&from=2016-03-10&to=2016-04-09&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA&from=2016-04-10&to=2016-05-10&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharmaceutical" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharmaceutical%22%20FDA&from=2016-04-10&to=2016-05-10&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" recall': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20recall&from=2016-04-10&to=2016-05-10&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA approval': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20approval&from=2016-04-10&to=2016-05-10&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA warning': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20warning&from=2016-04-10&to=2016-05-10&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA&from=2016-05-11&to=2016-06-10&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharmaceutical" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharmaceutical%22%20FDA&from=2016-05-11&to=2016-06-10&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" recall': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20recall&from=2016-05-11&to=2016-06-10&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA approval': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20approval&from=2016-05-11&to=2016-06-10&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA warning': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20warning&from=2016-05-11&to=2016-06-10&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA&from=2016-06-11&to=2016-07-11&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharmaceutical" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharmaceutical%22%20FDA&from=2016-06-11&to=2016-07-11&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" recall': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20recall&from=2016-06-11&to=2016-07-11&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA approval': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20approval&from=2016-06-11&to=2016-07-11&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA warning': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20warning&from=2016-06-11&to=2016-07-11&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA&from=2016-07-12&to=2016-08-11&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharmaceutical" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharmaceutical%22%20FDA&from=2016-07-12&to=2016-08-11&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" recall': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20recall&from=2016-07-12&to=2016-08-11&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA approval': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20approval&from=2016-07-12&to=2016-08-11&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA warning': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20warning&from=2016-07-12&to=2016-08-11&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA&from=2016-08-12&to=2016-09-11&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharmaceutical" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharmaceutical%22%20FDA&from=2016-08-12&to=2016-09-11&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" recall': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20recall&from=2016-08-12&to=2016-09-11&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA approval': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20approval&from=2016-08-12&to=2016-09-11&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA warning': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20warning&from=2016-08-12&to=2016-09-11&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA&from=2016-09-12&to=2016-10-12&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharmaceutical" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharmaceutical%22%20FDA&from=2016-09-12&to=2016-10-12&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" recall': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20recall&from=2016-09-12&to=2016-10-12&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA approval': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20approval&from=2016-09-12&to=2016-10-12&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA warning': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20warning&from=2016-09-12&to=2016-10-12&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA&from=2016-10-13&to=2016-11-12&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharmaceutical" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharmaceutical%22%20FDA&from=2016-10-13&to=2016-11-12&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" recall': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20recall&from=2016-10-13&to=2016-11-12&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA approval': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20approval&from=2016-10-13&to=2016-11-12&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA warning': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20warning&from=2016-10-13&to=2016-11-12&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA&from=2016-11-13&to=2016-12-13&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharmaceutical" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharmaceutical%22%20FDA&from=2016-11-13&to=2016-12-13&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" recall': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20recall&from=2016-11-13&to=2016-12-13&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA approval': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20approval&from=2016-11-13&to=2016-12-13&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA warning': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20warning&from=2016-11-13&to=2016-12-13&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA&from=2016-12-14&to=2017-01-13&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharmaceutical" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharmaceutical%22%20FDA&from=2016-12-14&to=2017-01-13&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" recall': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20recall&from=2016-12-14&to=2017-01-13&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA approval': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20approval&from=2016-12-14&to=2017-01-13&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA warning': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20warning&from=2016-12-14&to=2017-01-13&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA&from=2017-01-14&to=2017-02-13&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharmaceutical" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharmaceutical%22%20FDA&from=2017-01-14&to=2017-02-13&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" recall': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20recall&from=2017-01-14&to=2017-02-13&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA approval': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20approval&from=2017-01-14&to=2017-02-13&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA warning': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20warning&from=2017-01-14&to=2017-02-13&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA&from=2017-02-14&to=2017-03-16&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharmaceutical" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharmaceutical%22%20FDA&from=2017-02-14&to=2017-03-16&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" recall': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20recall&from=2017-02-14&to=2017-03-16&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA approval': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20approval&from=2017-02-14&to=2017-03-16&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA warning': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA%20warning&from=2017-02-14&to=2017-03-16&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20FDA&from=2017-03-17&to=2017-04-16&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharmaceutical" FDA': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharmaceutical%22%20FDA&from=2017-03-17&to=2017-04-16&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma" recall': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun%20Pharma%22%20recall&from=2017-03-17&to=2017-04-16&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+🚀 FDA News Collector Initialized
+📅 Date Range: 2015-01-01 00:00:00 to 2025-07-09 00:00:00
+🚀 Starting FDA News Data Collection Pipeline...
+🎯 Starting news data collection...
+📄 Collecting news for Sun Pharma...
+❌ Error fetching NewsAPI data for query '"Sun Pharma" drug approval': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun+Pharma%22+drug+approval&from=2015-01-01&to=2015-01-31&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+❌ Error fetching NewsAPI data for query '"Sun Pharma Industries" FDA inspection': 401 Client Error: Unauthorized for url: https://newsapi.org/v2/everything?q=%22Sun+Pharma+Industries%22+FDA+inspection&from=2015-01-01&to=2015-01-31&language=en&sortBy=relevancy&apiKey=YOUR_NEWSAPI_KEY
+🎯 Starting enhanced FDA news data collection...
+✅ Loaded stock data: 7788 records
+📊 Collecting news for Sun Pharma...
+🔍 Generated 37 search queries for Sun Pharma
+Fetching enhanced Yahoo Finance news for Sun Pharma
+Collected 0 enhanced Yahoo Finance articles for Sun Pharma
+Fetching from pharma RSS feed: https://www.fiercepharma.com/rss.xml
+Fetching from pharma RSS feed: https://www.biopharmadive.com/feeds/news/
+Fetching from pharma RSS feed: https://www.pharmatimes.com/rss/news.xml
+Fetching from pharma RSS feed: https://www.pharmaceutical-technology.com/rss/news/
+Fetching from pharma RSS feed: https://www.outsourcing-pharma.com/rss/news
+Collected 0 alternative source articles for Sun Pharma
+📰 Collected 478 articles for Sun Pharma
+📊 Collecting news for Biocon...
+🔍 Generated 38 search queries for Biocon
+Fetching enhanced Yahoo Finance news for Biocon
+Collected 0 enhanced Yahoo Finance articles for Biocon
+Fetching from pharma RSS feed: https://www.fiercepharma.com/rss.xml
+Fetching from pharma RSS feed: https://www.biopharmadive.com/feeds/news/
+Fetching from pharma RSS feed: https://www.pharmatimes.com/rss/news.xml
+Fetching from pharma RSS feed: https://www.pharmaceutical-technology.com/rss/news/
+Fetching from pharma RSS feed: https://www.outsourcing-pharma.com/rss/news
+Collected 0 alternative source articles for Biocon
+📰 Collected 530 articles for Biocon
+📊 Collecting news for Dr. Reddy's...
+🔍 Generated 48 search queries for Dr. Reddy's
+Fetching enhanced Yahoo Finance news for Dr. Reddy's
+Collected 0 enhanced Yahoo Finance articles for Dr. Reddy's
+Fetching from pharma RSS feed: https://www.fiercepharma.com/rss.xml
+Fetching from pharma RSS feed: https://www.biopharmadive.com/feeds/news/
+Fetching from pharma RSS feed: https://www.pharmatimes.com/rss/news.xml
+Fetching from pharma RSS feed: https://www.pharmaceutical-technology.com/rss/news/
+Fetching from pharma RSS feed: https://www.outsourcing-pharma.com/rss/news
+Collected 0 alternative source articles for Dr. Reddy's
+📰 Collected 132 articles for Dr. Reddy's
+📊 Total unique articles collected: 665
+✅ Enhanced news data saved: data/news_data.csv (234 events)
+🎯 Starting enhanced FDA news data collection (NSE ONLY)...
+✅ Loaded NSE stock data: 7788 records
+📊 Collecting news for Sun Pharma (SUNPHARMA.NS)...
+🔍 Generated 34 search queries for Sun Pharma
+  Query 1/15: "Sun Pharma" FDA approval
+  Found 49 articles for query: "Sun Pharma" FDA approval
+  Query 2/15: "Sun Pharma" FDA warning
+  Found 71 articles for query: "Sun Pharma" FDA warning
+Fetching enhanced Yahoo Finance news for Sun Pharma (SUNPHARMA.NS)
+Collected 0 enhanced Yahoo Finance articles for Sun Pharma
+📰 Collected 120 articles for Sun Pharma
+📊 Collecting news for Biocon (BIOCON.NS)...
+🔍 Generated 35 search queries for Biocon
+  Query 1/15: "Biocon" FDA approval
+🎯 Starting comprehensive FDA news data collection...
+✅ Loaded NSE stock data: 7788 records
+
+📊 Collecting news for Sun Pharma (SUNPHARMA.NS)...
+🔍 Generated 54 search queries for Sun Pharma
+  Query 1/20: "Sun Pharma" FDA approval
+  Found 67 relevant articles for query: "Sun Pharma" FDA approval
+  Reached article limit for Sun Pharma
+📰 Collected 67 articles for Sun Pharma
+
+📊 Collecting news for Biocon (BIOCON.NS)...
+🔍 Generated 54 search queries for Biocon
+  Query 1/20: "Biocon" FDA approval
+  Found 103 relevant articles for query: "Biocon" FDA approval
+  Reached article limit for Biocon
+📰 Collected 103 articles for Biocon
+
+📊 Collecting news for Dr. Reddy's (DRREDDY.NS)...
+🔍 Generated 106 search queries for Dr. Reddy's
+  Query 1/20: "Dr Reddy" FDA approval
+  Found 71 relevant articles for query: "Dr Reddy" FDA approval
+  Reached article limit for Dr. Reddy's
+📰 Collected 71 articles for Dr. Reddy's
+📊 Total unique articles collected: 230
+Creating comprehensive sample FDA-related news data
+Created 12 comprehensive sample FDA-related articles
+📊 Total articles with samples: 242
+📊 Processed 102 articles into events
+✅ Enhanced news data saved: data/news_data.csv (102 events)
+🎯 Starting comprehensive FDA news data collection...
+✅ Loaded NSE stock data: 7788 records
+
+📊 Collecting news for Sun Pharma (SUNPHARMA.NS)...
+🔍 Generated 54 search queries for Sun Pharma
+  Query 1/20: "Sun Pharma" FDA approval
+  Found 67 relevant articles for query: "Sun Pharma" FDA approval
+  Reached article limit for Sun Pharma
+📰 Collected 67 articles for Sun Pharma
+
+📊 Collecting news for Biocon (BIOCON.NS)...
+🔍 Generated 54 search queries for Biocon
+  Query 1/20: "Biocon" FDA approval
+  Found 103 relevant articles for query: "Biocon" FDA approval
+  Reached article limit for Biocon
+📰 Collected 103 articles for Biocon
+
+📊 Collecting news for Dr. Reddy's (DRREDDY.NS)...
+🔍 Generated 106 search queries for Dr. Reddy's
+  Query 1/20: "Dr Reddy" FDA approval
+  Found 71 relevant articles for query: "Dr Reddy" FDA approval
+  Reached article limit for Dr. Reddy's
+📰 Collected 71 articles for Dr. Reddy's
+📊 Total unique articles collected: 230
+Creating comprehensive sample FDA-related news data
+Created 12 comprehensive sample FDA-related articles
+📊 Total articles with samples: 242
+📊 Processed 102 articles into events
+✅ Enhanced news data saved: data/news_data.csv (102 events)
+🎯 Starting comprehensive FDA news data collection...
+✅ Loaded NSE stock data: 7788 records
+
+📊 Collecting news for Sun Pharma (SUNPHARMA.NS)...
+🔍 Generated 54 search queries for Sun Pharma
+  Query 1/20: "Sun Pharma" FDA approval
+  Found 67 relevant articles for query: "Sun Pharma" FDA approval
+  Reached article limit for Sun Pharma
+📰 Collected 67 articles for Sun Pharma
+
+📊 Collecting news for Biocon (BIOCON.NS)...
+🔍 Generated 54 search queries for Biocon
+  Query 1/20: "Biocon" FDA approval
+  Found 103 relevant articles for query: "Biocon" FDA approval
+  Reached article limit for Biocon
+📰 Collected 103 articles for Biocon
+
+📊 Collecting news for Dr. Reddy's (DRREDDY.NS)...
+🔍 Generated 106 search queries for Dr. Reddy's
+  Query 1/20: "Dr Reddy" FDA approval
+  Found 71 relevant articles for query: "Dr Reddy" FDA approval
+  Reached article limit for Dr. Reddy's
+📰 Collected 71 articles for Dr. Reddy's
+📊 Total unique articles collected: 230
+Creating comprehensive sample FDA-related news data
+Created 12 comprehensive sample FDA-related articles
+📊 Total articles with samples: 242
+📊 Processed 102 articles into events
+✅ Enhanced news data saved: data/news_data.csv (102 events)

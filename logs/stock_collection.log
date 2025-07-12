@@ -36,3 +36,150 @@
 💾 Saving stock data...
 ✅ Data saved: data/stock_data.csv (7788 rows)
 🎉 Stock data collection completed successfully!
+🚀 Stock Data Collector Initialized
+📅 Date Range: 2015-01-01 00:00:00 to 2025-07-09 00:00:00
+🚀 Starting Stock Data Collection Pipeline...
+🎯 Starting stock data collection...
+📈 Downloading Sun Pharma data...
+  Trying Yahoo Finance symbol: SUNPHARMA.NS
+  ✅ Success: 2596 records for SUNPHARMA.NS
+✅ Sun Pharma: 2596 records collected
+📈 Downloading Biocon data...
+  Trying Yahoo Finance symbol: BIOCON.NS
+  ✅ Success: 2596 records for BIOCON.NS
+✅ Biocon: 2596 records collected
+📈 Downloading Dr. Reddy’s data...
+  Trying Yahoo Finance symbol: DRREDDY.NS
+  ✅ Success: 2596 records for DRREDDY.NS
+✅ Dr. Reddy’s: 2596 records collected
+💾 Saving stock data...
+✅ Data saved: data/stock_data.csv (7788 rows)
+🎉 Stock data collection completed successfully!
+🚀 NSE Stock Data Collector Initialized
+📅 Date Range: 2015-01-01 00:00:00 to 2025-07-09 00:00:00
+📈 Exchange: NSE (National Stock Exchange) only
+🚀 Starting NSE Stock Data Collection Pipeline...
+🎯 Starting NSE stock data collection...
+
+📊 Processing Sun Pharma...
+📈 Downloading Sun Pharma (SUNPHARMA.NS) data...
+  Validating symbol: SUNPHARMA.NS
+  ✅ Symbol SUNPHARMA.NS validated successfully
+  ✅ Success: 2595 records for Sun Pharma
+  📊 Date range: 2015-01-02 00:00:00+05:30 to 2025-07-08 00:00:00+05:30
+  📈 Price range: ₹307.59 - ₹1930.67
+✅ Sun Pharma: 2595 records collected
+  📊 Return stats - Mean: 0.0005, Std: 0.0182
+  📊 Max gain: 0.1101, Max loss: -0.1506
+🚀 NSE Stock Data Collector Initialized
+📅 Date Range: 2015-01-01 00:00:00 to 2025-07-09 00:00:00
+📈 Exchange: NSE (National Stock Exchange) only
+🚀 Starting NSE Stock Data Collection Pipeline...
+🎯 Starting NSE stock data collection...
+
+📊 Processing Sun Pharma...
+📈 Downloading Sun Pharma (SUNPHARMA.NS) data...
+  Validating symbol: SUNPHARMA.NS
+🚀 NSE Stock Data Collector Initialized
+📅 Date Range: 2015-01-01 00:00:00 to 2025-07-09 00:00:00
+📈 Exchange: NSE (National Stock Exchange) only
+🚀 Starting NSE Stock Data Collection Pipeline...
+🎯 Starting NSE stock data collection...
+
+📊 Processing Sun Pharma...
+📈 Downloading Sun Pharma (SUNPHARMA.NS) data...
+  Validating symbol: SUNPHARMA.NS
+  ✅ Symbol SUNPHARMA.NS validated successfully
+  ✅ Symbol SUNPHARMA.NS validated successfully
+  ✅ Success: 2595 records for Sun Pharma
+  📊 Date range: 2015-01-02 00:00:00+05:30 to 2025-07-08 00:00:00+05:30
+  📈 Price range: ₹307.59 - ₹1930.67
+✅ Sun Pharma: 2595 records collected
+  📊 Return stats - Mean: 0.0005, Std: 0.0182
+  📊 Max gain: 0.1101, Max loss: -0.1506
+  ✅ Success: 2595 records for Sun Pharma
+  📊 Date range: 2015-01-02 00:00:00+05:30 to 2025-07-08 00:00:00+05:30
+  📈 Price range: ₹307.59 - ₹1930.67
+✅ Sun Pharma: 2595 records collected
+  📊 Return stats - Mean: 0.0005, Std: 0.0182
+  📊 Max gain: 0.1101, Max loss: -0.1506
+
+📊 Processing Biocon...
+📈 Downloading Biocon (BIOCON.NS) data...
+  Validating symbol: BIOCON.NS
+
+📊 Processing Biocon...
+📈 Downloading Biocon (BIOCON.NS) data...
+  Validating symbol: BIOCON.NS
+  ✅ Symbol BIOCON.NS validated successfully
+  ✅ Symbol BIOCON.NS validated successfully
+  ✅ Success: 2595 records for Biocon
+  📊 Date range: 2015-01-02 00:00:00+05:30 to 2025-07-08 00:00:00+05:30
+  📈 Price range: ₹64.94 - ₹478.73
+✅ Biocon: 2595 records collected
+  📊 Return stats - Mean: 0.0009, Std: 0.0212
+  📊 Max gain: 0.1557, Max loss: -0.1171
+  ✅ Success: 2595 records for Biocon
+  📊 Date range: 2015-01-02 00:00:00+05:30 to 2025-07-08 00:00:00+05:30
+  📈 Price range: ₹64.94 - ₹478.73
+✅ Biocon: 2595 records collected
+  📊 Return stats - Mean: 0.0009, Std: 0.0212
+  📊 Max gain: 0.1557, Max loss: -0.1171
+🚀 NSE Stock Data Collector Initialized
+📅 Date Range: 2015-01-01 00:00:00 to 2025-07-09 00:00:00
+📈 Exchange: NSE (National Stock Exchange) only
+🚀 Starting NSE Stock Data Collection Pipeline...
+🎯 Starting NSE stock data collection...
+
+📊 Processing Sun Pharma...
+📈 Downloading Sun Pharma (SUNPHARMA.NS) data...
+  Validating symbol: SUNPHARMA.NS
+  ✅ Symbol SUNPHARMA.NS validated successfully
+  ✅ Success: 2595 records for Sun Pharma
+  📊 Date range: 2015-01-02 00:00:00+05:30 to 2025-07-08 00:00:00+05:30
+  📈 Price range: ₹307.59 - ₹1930.67
+✅ Sun Pharma: 2595 records collected
+  📊 Return stats - Mean: 0.0005, Std: 0.0182
+  📊 Max gain: 0.1101, Max loss: -0.1506
+
+📊 Processing Biocon...
+📈 Downloading Biocon (BIOCON.NS) data...
+  Validating symbol: BIOCON.NS
+  ✅ Symbol BIOCON.NS validated successfully
+  ✅ Success: 2595 records for Biocon
+  📊 Date range: 2015-01-02 00:00:00+05:30 to 2025-07-08 00:00:00+05:30
+  📈 Price range: ₹64.94 - ₹478.73
+✅ Biocon: 2595 records collected
+  📊 Return stats - Mean: 0.0009, Std: 0.0212
+  📊 Max gain: 0.1557, Max loss: -0.1171
+
+📊 Processing Dr. Reddy's...
+📈 Downloading Dr. Reddy's (DRREDDY.NS) data...
+  Validating symbol: DRREDDY.NS
+  ✅ Symbol DRREDDY.NS validated successfully
+  ✅ Success: 2595 records for Dr. Reddy's
+  📊 Date range: 2015-01-02 00:00:00+05:30 to 2025-07-08 00:00:00+05:30
+  📈 Price range: ₹372.30 - ₹1403.59
+✅ Dr. Reddy's: 2595 records collected
+  📊 Return stats - Mean: 0.0004, Std: 0.0168
+  📊 Max gain: 0.1387, Max loss: -0.1456
+🔍 Validating collected data...
+
+📊 Validating Sun Pharma:
+  📅 Date coverage: 3840 days
+  ⚠️ Zero volume days: 1
+  ✅ Validation completed for Sun Pharma
+
+📊 Validating Biocon:
+  📅 Date coverage: 3840 days
+  ⚠️ Zero volume days: 1
+  ✅ Validation completed for Biocon
+
+📊 Validating Dr. Reddy's:
+  📅 Date coverage: 3840 days
+  ⚠️ Zero volume days: 1
+  ✅ Validation completed for Dr. Reddy's
+💾 Saving NSE stock data...
+✅ NSE stock data saved: data/stock_data.csv
+📊 Total records: 7785
+🎉 NSE stock data collection completed successfully!
